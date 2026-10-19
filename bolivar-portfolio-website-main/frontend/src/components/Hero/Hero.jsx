@@ -1,6 +1,6 @@
 import React, { useEffect, useState } from 'react';
 import './Hero.css';
-import profileImage from '../../assets/Jade.png';
+import profileImage from '../../assets/jades.png';
 
 const socialLinks = [
   {

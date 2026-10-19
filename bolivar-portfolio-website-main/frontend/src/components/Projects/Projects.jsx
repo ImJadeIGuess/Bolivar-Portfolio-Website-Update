@@ -55,7 +55,7 @@ const sampleProjects = [
     category: 'fullstack',
     image: DigiKonekImage,
     githubUrl: null,
-    liveUrl: null,
+    liveUrl: 'https://drive.google.com/drive/folders/18TqXvXT_J97_Qd6WlrEn34yKS7Op7LkU?fbclid=IwY2xjawVDAtNleHRuA2FlbQMxMDAAcGRvZgNzcnRjBmFwcF9pZAEwAAEewSXkGYB0852h-XncUgRAB9ddY28M52T8MHM60yxuLabJ8GUzF-MZgCO4yL0_aem_MLKQEl-SLDpDuma8TRvdJg',
     featured: true
   },
   {
