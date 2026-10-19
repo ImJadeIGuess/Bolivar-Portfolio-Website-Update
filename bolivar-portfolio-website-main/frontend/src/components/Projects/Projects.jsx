@@ -49,10 +49,10 @@ const sampleProjects = [
   {
     _id: '6',
     title: 'Digi-Konek',
-    shortDescription: 'Team project by the TechIlo Dev team. Details coming soon.',
-    description: 'Built with the TechIlo Dev team. Full description coming soon.',
+    shortDescription: 'Team project by the TechIlo Dev team.',
+    description: 'Digi-Konek is a web-based B2B marketplace designed for the electronics industry, connecting verified suppliers with registered retailers. It streamlines product browsing, price comparison, inventory management, and wholesale ordering through one centralized platform.',
     technologies: [],
-    category: 'fullstack',
+    category: 'Software Engineer',
     image: DigiKonekImage,
     githubUrl: null,
     liveUrl: 'https://drive.google.com/drive/folders/18TqXvXT_J97_Qd6WlrEn34yKS7Op7LkU?fbclid=IwY2xjawVDAtNleHRuA2FlbQMxMDAAcGRvZgNzcnRjBmFwcF9pZAEwAAEewSXkGYB0852h-XncUgRAB9ddY28M52T8MHM60yxuLabJ8GUzF-MZgCO4yL0_aem_MLKQEl-SLDpDuma8TRvdJg',
