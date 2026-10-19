@@ -1,4 +1,3 @@
-
 import React, { useState, useEffect } from 'react';
 import { useTheme } from '../../context/ThemeContext';
 import './Navbar.css';
@@ -58,7 +57,7 @@ const Navbar = () => {
     setIsMobileMenuOpen(false);
   };
 
-  const resumeUrl = `${import.meta.env.BASE_URL}resume.pdf`;
+  const resumeUrl = `${import.meta.env.BASE_URL}Jade_Resume.pdf`;
 
   return (
     <nav className={`navbar ${isScrolled ? 'scrolled' : ''}`}>
@@ -136,7 +135,7 @@ const Navbar = () => {
           <a
             href={resumeUrl}
             className="btn btn-outline resume-btn"
-            download="Jaderick-Bolivar-Resume.pdf"
+            download="Jade_Resume.pdf"
           >
             Resume
           </a>
@@ -180,7 +179,7 @@ const Navbar = () => {
           <a
             href={resumeUrl}
             className="btn btn-outline mobile-resume-btn"
-            download="Jaderick-Bolivar-resume.pdf"
+            download="Jade_Resume.pdf"
           >
             Resume
           </a>
