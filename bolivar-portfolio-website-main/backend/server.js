@@ -12,6 +12,7 @@ if (process.env.DNS_SERVERS) {
 }
 
 const express = require('express');
+app.set('trust proxy', 1);
 const mongoose = require('mongoose');
 const cors = require('cors');
 const helmet = require('helmet');
