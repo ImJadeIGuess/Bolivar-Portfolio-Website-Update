@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 600" role="img" aria-label="TideTrace project placeholder">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#0f766e"/>
+      <stop offset="1" stop-color="#0c4a6e"/>
+    </linearGradient>
+  </defs>
+  <rect width="800" height="600" fill="url(#bg)"/>
+  <path d="M0 380 C120 330 220 430 340 380 S560 330 680 380 S760 410 800 390 V600 H0 Z" fill="#ffffff" fill-opacity="0.10"/>
+  <path d="M0 440 C140 400 240 490 380 440 S600 400 720 450 S780 470 800 460 V600 H0 Z" fill="#ffffff" fill-opacity="0.12"/>
+  <text x="400" y="270" text-anchor="middle" font-family="Segoe UI, Arial, sans-serif" font-size="64" font-weight="700" fill="#ffffff">TideTrace</text>
+  <text x="400" y="320" text-anchor="middle" font-family="Segoe UI, Arial, sans-serif" font-size="24" fill="#ffffff" fill-opacity="0.85">Community conservation platform</text>
+  <text x="400" y="560" text-anchor="middle" font-family="Segoe UI, Arial, sans-serif" font-size="18" fill="#ffffff" fill-opacity="0.6">Screenshot coming soon</text>
+</svg>
