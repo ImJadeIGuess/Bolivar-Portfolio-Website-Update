@@ -180,7 +180,7 @@ const Navbar = () => {
           <a
             href={resumeUrl}
             className="btn btn-outline mobile-resume-btn"
-            download="Jaderick-Bolivar-Resume.pdf"
+            download="Jaderick-Bolivar-resume.pdf"
           >
             Resume
           </a>
